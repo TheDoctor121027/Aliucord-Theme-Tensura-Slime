@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": "TheDoctor#5094",
+        "version": "1.0.2",
+        "name": "Rimuru Tempest"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/824742183415316571\/890208882532700190\/gwu84okg00m21.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -426762812,
+        "active_channel": -5291040,
+        "statusbar": -898421605,
+        "input_background": -896521217,
+        "mention_highlight": 1704872128,
+        "background_secondary": 1483226250,
+        "background": 1497833817
+    },
+    "colors": {
+        "status_yellow": 2147459072,
+        "status_green": -16711712,
+        "status_red": -1459683328
+    },
+    "drawable_tints": {}
+}
